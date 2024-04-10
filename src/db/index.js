@@ -12,6 +12,3 @@ const connectDB = async()=>{
 }
 export default connectDB
 
-const show= ()=>{
-    console.log("hello");
-}
